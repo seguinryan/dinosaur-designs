@@ -1,5 +1,4 @@
 html {
-  box-sizing: html {
     box-sizing: border-box;
     background-color: #f2fled;
     font-family: Georgia, serif;
@@ -9,4 +8,3 @@ html {
   *, *::before, *::after {
     box-sizing: inherit;
   }
-}
