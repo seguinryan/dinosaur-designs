@@ -13,14 +13,14 @@ img {
   width: 100%;
 }
 
-h1, h2  {
+h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
   font-family: "Patua One", sans-serif;
   font-family: Roboto, sans-serif;
 }
 
-figcaption  {
+figcaption {
   font-size: .8rem;
   font-style: italic;
   text-align: center;
@@ -32,7 +32,7 @@ nav {
   font-family: sans-serif;
 }
 
-nav ol  {
+nav ol {
   list-style-type: none;
 }
 
@@ -42,7 +42,7 @@ nav a {
 }
 
 nav a:hover {
-  color:  #b42885;
+  color: #b42885;
   text-decoration: underline;
 }
 
